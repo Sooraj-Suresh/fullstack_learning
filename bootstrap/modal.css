@@ -1,0 +1,11 @@
+.modal-body input{
+    border-top: 0ch;
+    border-right: 0ch;
+    border-left: 0ch;
+}
+.dropdown button{
+    border: 1px solid rgb(219, 219, 219);
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+}

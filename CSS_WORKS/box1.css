@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Lobster&display=swap');
+h1{
+    color: rgb(216, 109, 173);
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Festive', cursive;;
+}
+#a0:hover{
+    
+    color: chartreuse;
+    transition: all 0.2s;
+}
+
+#a1{
+    color: blue;
+}
+#a1:hover{
+    
+    color: chartreuse;
+    transition: all 0.2s;
+}
+
+.c1{
+    color: #e803fc;
+}
+.c1:hover{
+    
+    color: chartreuse;
+    transition: all 0.2s;
+}
+p{
+    font-family: 'Lobster', cursive;;
+    font-size: 30px;
+    font-weight: 700;
+}

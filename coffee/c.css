@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Dancing+Script&family=Festive&family=Lobster&family=Open+Sans+Condensed:wght@300&family=Pacifico&display=swap');
+
+body{
+    height: 1000px;
+}
+header nav{
+    background-color:#7952b3 ;
+}
+.nav-link{
+    color:wheat;
+    font-weight: 900;
+    font-family: 'Irish Grover', cursive;;
+    border-radius: 10px;
+
+}
+.nav-link:hover{
+    color: white;
+    transition: 0.5s;
+    background: black;
+}
+.me-auto{
+    font-family: 'Italianno', cursive;
+    font-weight:200 ;
+}
+#c{
+    margin-left: 700px;
+    margin-top: -1px;
+}
+.main h1{
+    color: cornflowerblue;
+    margin-top: -325px;
+    margin-left: 0%;
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+}

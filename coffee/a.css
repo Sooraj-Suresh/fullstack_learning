@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Dancing+Script&family=Festive&family=Lobster&family=Open+Sans+Condensed:wght@300&family=Pacifico&display=swap');
+header nav{
+    background-color: #7952b3;
+    position: sticky;
+    top: 0%;
+
+}
+.nav-link{
+    color:wheat;
+    font-weight: 900;
+    font-family: 'Irish Grover', cursive;
+    border-radius: 10px;
+
+}
+.nav-link:hover{
+    color: white;
+    transition: 0.5s;
+    background: black;
+}
+.me-auto{
+    font-family: 'Italianno', cursive;
+    font-weight:200 ;
+}
+body{
+    background-image: url(./images/coffee-and-books-featured.png);
+    background-size: 100% 25%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    
+}
+.main h1{
+    font-size: 50px;
+    color:black;
+    font-family:  'Courgette', cursive;
+    margin-left: 38%;
+    font-weight: 900;
+    margin-top: 1%;
+    padding: 2px;
+    
+}
+.aside h2{
+    
+    border-radius: 15px;
+    margin-top: 20%;
+    margin-left: 2%;
+    font-family: 'Lobster', cursive;;
+}
+.main p{
+    border: lavender;
+    background-color: lavender;
+    border-radius: 10px;
+    text-align: center;
+    width: 45%;
+    padding: 50px;
+    margin-top: -590px;
+    margin-left: 735px;
+    position: absolute;
+}
+.footer p{
+    border: lavender;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    padding: 50px;
+    background-color: lavender;
+    margin-top: 15%;
+}
+#foot{
+    position: absolute;
+    top: 170%;
+    width: 40%;
+    height: 60%;
+    left: 55%;
+   
+    
+}
+

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    background-color: black;
+}
+div{
+    color: aliceblue;
+    width: 19.5%;
+    border: 1px solid white;
+    float: left;
+    height: 705px;
+}
+div img{
+    height: 300px;
+}
+#h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;;
+}
+#outline{
+    outline: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 13%;
+}
+#lucifer{
+    height: 300px;
+    width: 100%;
+}
+#outline2{
+    outline: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 13%;
+}
+#drishyam{
+    height: 300px;
+    width: 100%;
+}
+#outline3{
+    outline: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+#priest{
+    height: 300px;
+    width: 100%;
+}
+#outline4{
+    outline: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 20%;
+}
+#outline5{
+    outline: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 14%;
+}

@@ -1,0 +1,84 @@
+i{
+   color:red;
+   position: absolute;
+   top: 5%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   
+}
+p{
+    font-size: 152%;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    outline: auto;
+    cursor: grabbing;
+    border-radius: 25ch;
+    height: 40px;
+    width: 250px;
+}
+#p1{
+    position: absolute;
+    top: 55%;
+    left: 87%;
+
+}
+#b1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color:rgb(223, 237, 238);
+    position: absolute;
+    top: 65%;
+    left: 80%;
+    border-radius: 50%;
+    width: 250px;
+    height: 60px;
+    
+}
+#img1{
+    position: absolute;
+    top: 69%;
+    left: 82%;
+    color: rgb(7, 132, 250);
+    
+
+
+}
+#b2{
+    
+
+}
+#img2{
+    position: absolute;
+    top: 79%;
+    left: 82%;
+    color:white;
+    
+}
+
+#class{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color:black;
+    position: absolute;
+    top: 75%;
+    left: 80%;
+    border-radius: 50%;
+    width: 250px;
+    height: 60px;
+    
+
+}
+.content{
+    box-sizing: content-box;
+    margin: 10px;
+    padding: 0;
+    box-shadow: rgb(7, 132, 250);
+}
+body{
+    background-color: aqua;
+}

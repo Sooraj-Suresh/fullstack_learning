@@ -1,0 +1,24 @@
+div{
+    border: 1px solid black;
+    width:30%;
+    float: left;
+}
+div img{
+    width: 100%;
+}
+#img1{
+   height : 240px;
+}
+div p{
+    padding: 50px;
+}
+button{
+    margin-left: 40%; 
+    /* text align:center; */
+}
+button:hover{
+    color: aliceblue;
+    background-color: black;
+    transition: all 0.5s;
+    font-family: 'Courier New', Courier, monospace;
+}

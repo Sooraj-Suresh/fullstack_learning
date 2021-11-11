@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Lobster&display=swap');
+div{
+    color: blue;
+    background-color: blanchedalmond;
+    border: solid 1px blue;
+    width: 50%;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-30%);
+
+}
+div:hover{
+    background-color: aqua;
+    transition: all 0.5s;
+    font-family:'Festive', cursive;;
+}
